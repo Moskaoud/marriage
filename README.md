@@ -45,6 +45,8 @@
     الدرس الرابع: آداب ليلة الزفاف.
     الدرس الخامس : أحكام ما بعد ليلة الزفاف.
 
-<img src="https://lms.zadi.net/asset-v1:ZADI+3828+T4_1438+type@asset+block@%D8%AE%D8%B7%D8%A9_%D9%86%D8%B2%D9%88%D9%84_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%85%D8%B3%D8%A7%D9%82_%D8%AE%D8%B7%D8%B7_%D9%84%D8%B2%D9%88%D8%A7%D8%AC%D9%83.png" width="900" height="1200" />
+<img src="https://lms.zadi.net/asset-v1:ZADI+3828+T4_1438+type@asset+block@%D9%85%D8%A7%D8%B0%D8%A7-%D8%B3%D9%88%D9%81-%D9%86%D8%AA%D8%B9%D9%84%D9%85-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D9%82-%D8%AE%D8%B7%D8%B7-%D9%84%D8%B2%D9%88%D8%A7%D8%AC%D9%83-2.png"/>
+
+<img src="https://lms.zadi.net/asset-v1:ZADI+3828+T4_1438+type@asset+block@%D8%AE%D8%B7%D8%A9_%D9%86%D8%B2%D9%88%D9%84_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%85%D8%B3%D8%A7%D9%82_%D8%AE%D8%B7%D8%B7_%D9%84%D8%B2%D9%88%D8%A7%D8%AC%D9%83.png" width="900" height="900" />
 
 https://zadi.net/courses/h2aGPxiM99QBa3yoZ
